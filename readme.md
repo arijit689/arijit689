@@ -39,9 +39,22 @@
 
 ## 📬 Connect With Me
 
-- 📧 Email: [arijitmajumder624@gmail.com](mailto:arijitmajumder624@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/arijitmajumder000](https://www.linkedin.com/in/arijitmajumder000)
+<p align="center">
+  <a href="mailto:arijitmajumder624@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arijitmajumder000" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Optional Resume Button -->
+  <!--
+  <a href="https://your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  -->
+</p>
 
 ---
+<p align="center">
 ⭐️ Thanks for visiting my profile!
 </p>
