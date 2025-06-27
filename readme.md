@@ -22,9 +22,9 @@
 
 ## 🌏 Languages I Speak
 
-- 🇮🇳 Hindi  
-- 🇬🇧 English  
-- 🐯 Bengali  
+- Hindi  
+- English  
+- Bengali  
 
 ---
 
