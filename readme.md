@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [your-email@example.com] *(optional)*
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 📧 Email: [arijitmajumder624@gmail.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/arijitmajumder000](#)
 
 ---
 
